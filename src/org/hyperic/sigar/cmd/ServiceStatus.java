@@ -1,5 +1,3 @@
-package org.hyperic.sigar.cmd;
-
 /*
  * Copyright (c) 2006 Hyperic, Inc.
  *
